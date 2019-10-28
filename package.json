@@ -1,0 +1,23 @@
+{
+  "name": "duid",
+  "version": "1.0.0",
+  "description": "easy convert your currency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyatakan-id/duid-js.git"
+  },
+  "keywords": [
+    "currency",
+    "duid"
+  ],
+  "author": "Nyatakan.id",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyatakan-id/duid-js/issues"
+  },
+  "homepage": "https://github.com/nyatakan-id/duid-js#readme"
+}
