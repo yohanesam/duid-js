@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/nyatakan-id/duid-js/issues"
   },
-  "homepage": "https://github.com/nyatakan-id/duid-js#readme"
+  "homepage": "https://github.com/nyatakan-id/duid-js#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  }
 }
